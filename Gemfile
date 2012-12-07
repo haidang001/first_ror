@@ -37,7 +37,7 @@ gem 'jquery-rails', '2.0.2'
 # To use debugger
 # gem 'debugger'
 #
-gem 'therubyracer'
+gem 'therubyracer', '0.11.0'
 gem 'execjs'
 
 group :production do
